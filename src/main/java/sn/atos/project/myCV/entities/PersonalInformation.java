@@ -15,7 +15,7 @@ public class PersonalInformation {
     private String tel;
     private String email;
     private String nom;
-    private String prénom;
+    private String prenom;
 
     private String country;
     private String city;

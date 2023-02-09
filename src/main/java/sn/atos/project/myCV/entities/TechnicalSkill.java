@@ -15,7 +15,7 @@ public class TechnicalSkill {
 	private String id;
 	
 	private String name;
-	private byte level;
+	private String level;
 
 	private Boolean view = true;
 	 
